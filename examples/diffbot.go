@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"log"
 
-	"code.google.com/p/diffbot"
+	"github.com/diffbot/diffbot-go-client"
 )
 
 var (
