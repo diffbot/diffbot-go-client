@@ -14,7 +14,7 @@ Generic API
 The basic API is diffbot.DiffbotServer:
 
 	import (
-		"code.google.com/p/diffbot"
+		"github.com/diffbot/diffbot-go-client"
 	)
 
 	var (
@@ -140,7 +140,7 @@ Other
 
 Diffbot API Document at http://diffbot.com/dev/docs/ or http://diffbot.com/products/.
 
-Please report bugs to <chaishushan{AT}gmail.com>.
+Please report bugs to <chaishushan@gmail.com>.
 
 */
 package diffbot

@@ -4,11 +4,11 @@ This package implements a Diffbot client library.
 
 Instasll
 
-	go get code.google.com/p/diffbot
+	go get github.com/diffbot/diffbot-go-client
 
-The Package documents at [godoc.org](http://godoc.org/code.google.com/p/diffbot) or
-[gowalker.org](http://gowalker.org/code.google.com/p/diffbot).
+The Package documents at [godoc.org](http://godoc.org/github.com/diffbot/diffbot-go-client) or
+[gowalker.org](http://gowalker.org/github.com/diffbot/diffbot-go-client).
 
-Please report bugs to <chaishushan{AT}gmail.com>.
+Please report bugs to <chaishushan@gmail.com>.
 
 Thanks!
