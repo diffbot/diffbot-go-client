@@ -2,7 +2,7 @@
 
 This package implements a Diffbot client library.
 
-Instasll
+Install
 
 	go get github.com/diffbot/diffbot-go-client
 
